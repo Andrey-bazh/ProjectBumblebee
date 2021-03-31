@@ -1,4 +1,4 @@
-Project about insects like a bee,bumblebee,wasp and other. Use React, React-Hooks,React-Scroll,Router react-icons and other diffrent library. 
+Project about insects like a bee,bumblebee,wasp and other. Use React, React-Hooks,React-Scroll,Router react-icons and other diffrent library. PET-PROJECT
 
 
 # Getting Started with Create React App
